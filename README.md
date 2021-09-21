@@ -1,5 +1,7 @@
 # Landing Page Project
 
+A demo of the webpage can be seen here: https://codepen.io/alexyu90/pen/BaZxeEO
+
 ## Table of Contents
 
 * [Introduction](#introduction)
